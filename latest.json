@@ -1,0 +1,9 @@
+{
+  "build": 80,
+  "bundleChecksum": "03ce1de0f4de3d2a358ce24348d19374ce4bc3be7091db57b9c025d48cd704c3",
+  "nativeFingerprint": "c747d546",
+  "bundleUrl": "https://raw.githubusercontent.com/ShieldsBW/CozyCafe-releases/main/bundle-80.zip",
+  "apkUrl": "https://raw.githubusercontent.com/ShieldsBW/CozyCafe-releases/main/cozy-cafe-80.apk",
+  "commit": "f4972dc87b636b5e244281ceb749288b625f5445",
+  "message": "Add subfloor connector pieces under wall side strips (2px shorter)\n\nSubfloor now extends under the wall side strips like the main floor\ntrim connectors do, but 2px shorter on each side so the main trim\nvisually overhangs the subfloor at the corners.\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>"
+}
