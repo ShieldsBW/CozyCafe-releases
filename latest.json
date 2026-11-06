@@ -1,0 +1,11 @@
+{
+  "build": 159,
+  "bundleChecksum": "12d23ca71e20d8d5e8575d026f0b07177689c404b3462de03eb3e3a411516d24",
+  "nativeFingerprint": "c747d546",
+  "bundleUrl": "https://raw.githubusercontent.com/ShieldsBW/CozyCafe-releases/main/bundle-159.zip",
+  "apkUrl": "https://raw.githubusercontent.com/ShieldsBW/CozyCafe-releases/main/cozy-cafe-159.apk",
+  "commit": "22661cf6e8270ebadd6716d48a9b4e54dcdecdc1",
+  "message": "Update documentation to match the current game\n\n- Fix stale facts: main room and extension are 6x6, 15 equipment types,\n  save version 6, manager available from level 1, section lists, seats,\n  prestige starting layout, reputation label, tips, customer flow\n- Document counter facings, Corner Counter, table seats, staff work rules,\n  back-wall foliage, wall tint and draw order\n- Roadmap: mark items 1, 11 and 12 done; add remodel mode and the open\n  staff design questions\n- Dev plan: add recent files and note that src/ui/HUD.ts is unused\n\nDocs only, so no patch note.\n\nCo-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>",
+  "pushedAt": "2026-11-06T18:52:13Z",
+  "publishedAt": "2026-11-06T18:54:57.063Z"
+}
