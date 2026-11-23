@@ -1,0 +1,11 @@
+{
+  "build": 182,
+  "bundleChecksum": "b01ca8373480d63d8df2a1735d7969061f0ea9e45e10a75433f121735bd3cd97",
+  "nativeFingerprint": "c747d546",
+  "bundleUrl": "https://raw.githubusercontent.com/ShieldsBW/CozyCafe-releases/main/bundle-182.zip",
+  "apkUrl": "https://raw.githubusercontent.com/ShieldsBW/CozyCafe-releases/main/cozy-cafe-182.apk",
+  "commit": "a03c6744f705872d94454a011233347a38759d11",
+  "message": "Flip working side for counters; one staff member per station\n\n- Counters get a workFlip flag: staff side, walkway, customer side and equipment facing\n  swap while the counter art stays put (Flip pill while placing, button in the popup)\n- Register queue and pickup line follow the counter working side (registers on turned\n  counters used to queue as if facing the default way)\n- Hiring and auto-assign skip any station someone works or stands at; collisions start\n  at an empty counter, else on a counter walkway\n\nCo-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>",
+  "pushedAt": "2026-11-23T23:10:01Z",
+  "publishedAt": "2026-11-23T23:13:29.501Z"
+}
